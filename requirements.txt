@@ -1,0 +1,6 @@
+torchaudio
+pytorch-ignite
+wandb -qqq
+audiomentations
+pydub
+boto3

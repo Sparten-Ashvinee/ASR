@@ -1,0 +1,12 @@
+# "layer_1": 512,
+# "activation_1": "relu",
+# "dropout": random.uniform(0.01, 0.80),
+# "layer_2": 10,
+# "activation_2": "softmax",
+"k_folds" : 5,
+"optimizer": "Adam",
+"loss": "nn.CrossEntropyLoss()",
+"metric": "accuracy",
+"epoch": 10,
+"batch_size": 128,
+"learning_rate" : 0.001
