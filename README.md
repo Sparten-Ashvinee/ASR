@@ -1,7 +1,7 @@
  # Automatic Speech Emotion Recognition (SER) system
 
 ### Introduction
-This project focuses on building an Automatic Speech Emotion Recognition (SER) system capable of detecting emotions from audio speech data. 
+Build an Automatic Speech Emotion Recognition (SER) system capable of detecting emotions from audio speech data. 
 By leveraging deep learning models such as ResNet50, we aim to classify emotions like anger, disgust, fear, joy, neutral, sadness, and surprise from speech audio clips. 
 The project uses advanced audio augmentation techniques and models trained on diverse datasets to ensure robust emotion detection across different speakers and scenarios.
 
