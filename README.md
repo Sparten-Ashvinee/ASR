@@ -53,7 +53,7 @@ Additional audio effects applied during preprocessing:
 The training process utilizes a deep learning model like ResNet50, a robust convolutional neural network known for handling image and audio classification tasks effectively. To train the model:
 
 Run the training script using the command:
-```nohup python train.py &```
+```nohup python train.py```
 
 The model's performance is evaluated using standard metrics such as accuracy, precision, recall, and F1-score.
 
